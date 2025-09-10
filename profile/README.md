@@ -20,7 +20,7 @@ The app combines **instant messaging, voice and video conferencing, file transfe
 ## 📸 Overview
 A look into WeChat (微信) desktop features:
 
-![wechat-chat](https://github.com/user-attachments/assets/431fc16f-a36a-4224-830e-d021bf2e2471)
+![wechat-chat](https://github.com/user-attachments/assets/cab380c9-c28b-4eea-b5e4-924c6d13420b)
 
 ---
 
